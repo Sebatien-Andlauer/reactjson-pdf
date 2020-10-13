@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "ceci est du lorem ipsum",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non nisl pellentesque, tincidunt sem ut, pellentesque urna. Integer feugiat justo purus, et imperdiet tellus ultricies non. Pellentesque suscipit, est non commodo finibus, enim purus sollicitudin nisi, eu sodales justo lorem vitae metus. Aliquam id efficitur ex. Vestibulum at aliquet leo. Donec varius orci neque, eget luctus diam lacinia vel. Aliquam ante eros, commodo sit amet vehicula quis, tempus ut dui. Etiam malesuada, dui eu pulvinar interdum, purus quam tincidunt felis, sit amet interdum urna tellus aliquet tellus. Suspendisse non ex id quam congue rutrum. Nulla pretium metus felis, semper condimentum lorem pretium eget.",
+        "slug": "ceci-est-du-lorem-ipsum"
+    },
+    {
+        "id": 2,
+        "title": "Toto part en velo",
+        "content": "Je fais du vélo dans toute la ville",
+        "slug": "toto-part-en-velo"
+    },
+    {
+        "id": 3,
+        "title": "Tata je dois prévenir les pompiers",
+        "content": "Mes parents on fait un malaise du coup je préviens les pompiers et en plus j'ai ma tante qui est là",
+        "slug": "tata-je-dois-prevenir-les-pompiers"
+    },
+    {
+        "id": 4,
+        "title": "Lorem ipsum 2",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non nisl pellentesque, tincidunt sem ut, pellentesque urna. Integer feugiat justo purus, et imperdiet tellus ultricies non. Pellentesque suscipit, est non commodo finibus, enim purus sollicitudin nisi, eu sodales justo lorem vitae metus. Aliquam id efficitur ex. Vestibulum at aliquet leo. Donec varius orci neque, eget luctus diam lacinia vel. Aliquam ante eros, commodo sit amet vehicula quis, tempus ut dui. Etiam malesuada, dui eu pulvinar interdum, purus quam tincidunt felis, sit amet interdum urna tellus aliquet tellus. Suspendisse non ex id quam congue rutrum. Nulla pretium metus felis, semper condimentum lorem pretium eget.",
+        "slug": "lorem-ipsum-2"
+    }
+    
+]
